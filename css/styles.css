@@ -1,0 +1,18 @@
+h1{
+	font-family: 'Dosis', sans-serif;
+	font-size: 30px;
+}
+
+.navbar-default{
+	font-family: 'Dosis', sans-serif;
+	font-size: 30px;
+	background-color: black;
+	color: white;
+	padding: 5px;
+}
+
+.navbar .nav > li > a{
+	color: #ffffff;
+	margin: 10px;
+	font-size: 25px;
+}
