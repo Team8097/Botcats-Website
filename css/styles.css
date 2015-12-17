@@ -1,6 +1,7 @@
 h1{
 	font-family: 'Dosis', sans-serif;
 	font-size: 30px;
+	text-align: center;
 }
 
 .navbar-default{
@@ -15,4 +16,46 @@ h1{
 	color: #ffffff;
 	margin: 10px;
 	font-size: 25px;
+}
+
+hr {
+  position: relative;
+  display: block;
+  height: 1px;
+  max-width: 600px;
+  border: 0;
+  border-top: 2px solid #ccc;
+  padding: 0;
+}
+
+.header{
+padding-bottom: 85px;
+}
+
+.about-us{
+	text-align: center;
+}
+
+.team-members{
+	text-align: center;
+	align:center;
+	border-radius: 50%;
+}
+
+.btn-default{
+    background: black;
+	color: white;
+}
+
+.btn:active, .btn.active{
+
+}
+
+.nav-tabs{
+	text-align: center;
+	
+}
+
+.col-md-4{
+	align: center;
 }
