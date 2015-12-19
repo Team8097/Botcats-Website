@@ -37,9 +37,13 @@ padding-bottom: 85px;
 }
 
 .team-members{
-	text-align: center;
-	align:center;
 	border-radius: 50%;
+	height: 200px;
+	width: 200px
+}
+
+.team-members-blank{
+	height: 200px;
 }
 
 .btn-default{
@@ -59,3 +63,5 @@ padding-bottom: 85px;
 .col-md-4{
 	align: center;
 }
+
+
