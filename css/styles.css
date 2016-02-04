@@ -18,50 +18,6 @@ h1{
 	font-size: 25px;
 }
 
-hr {
-  position: relative;
-  display: block;
-  height: 1px;
-  max-width: 600px;
-  border: 0;
-  border-top: 2px solid #ccc;
-  padding: 0;
-}
-
 .header{
-padding-bottom: 85px;
+	padding-bottom: 85px;
 }
-
-.about-us{
-	text-align: center;
-}
-
-.team-members{
-	border-radius: 50%;
-	height: 200px;
-	width: 200px
-}
-
-.team-members-blank{
-	height: 200px;
-}
-
-.btn-default{
-    background: black;
-	color: white;
-}
-
-.btn:active, .btn.active{
-
-}
-
-.nav-tabs{
-	text-align: center;
-	
-}
-
-.col-md-4{
-	align: center;
-}
-
-
