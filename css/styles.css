@@ -19,5 +19,36 @@ h1{
 }
 
 .header{
-	padding-bottom: 85px;
+	
 }
+
+h2{
+	font-family: 'Dosis', sans-serif;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+	border: 5px solid #ccc; 
+	max-width: 500px;
+	background: rgba(0,0,0,0.4);
+}
+.team{
+	padding-top: 350px; 
+	
+}
+
+hr{
+	max-width: 600px;
+	border-top: 2px solid #ccc;
+	
+}
+
+.front{
+	background-image: url(https://i.gyazo.com/5bf1e9466aeb6b3ae6a6096e73b04ecc.jpg); 
+	padding-bottom: 485px;
+	background-repeat: no-repeat; 
+	padding-top: 75px;
+	background-size: cover; 
+	background-attachment: fixed; 
+
+}
+
