@@ -1,3 +1,7 @@
+body{
+	overflow:hidden
+}
+
 h1{
 	font-family: 'Dosis', sans-serif;
 	font-size: 30px;
@@ -10,6 +14,7 @@ h1{
 	background-color: black;
 	color: white;
 	padding: 5px;
+	border-color: black;
 }
 
 .navbar .nav > li > a{
@@ -43,8 +48,8 @@ hr{
 }
 
 .front{
-	background-image: url(https://i.gyazo.com/5bf1e9466aeb6b3ae6a6096e73b04ecc.jpg); 
-	padding-bottom: 485px;
+	background-image: url(https://i.gyazo.com/a0e1bcdd325adfaa73eb5516981469b0.jpg); 
+	padding-bottom: 600px;
 	background-repeat: no-repeat; 
 	padding-top: 75px;
 	background-size: cover; 
